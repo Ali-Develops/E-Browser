@@ -28,8 +28,6 @@ Welcome to **eBrowser**, a clean and straightforward web browser designed for An
 
 ## 📸 Glimpse of eBrowser
 
-> _*(Replace the placeholders with actual screenshots of your app)*_
-
 **Home Screen**  
 > (https://github.com/user-attachments/assets/e9cae55c-c553-49d9-986a-3efae28cd9dc).
 
