@@ -31,8 +31,7 @@ Welcome to **eBrowser**, a clean and straightforward web browser designed for An
 > _*(Replace the placeholders with actual screenshots of your app)*_
 
 **Home Screen**  
-> Your gateway to the web, featuring the URL bar and quick access buttons.
-
+> (https://github.com/user-attachments/assets/e9cae55c-c553-49d9-986a-3efae28cd9dc)
 **Tab Switcher**  
 > Effortlessly switch between your open tabs, keeping your browsing tidy.
 
