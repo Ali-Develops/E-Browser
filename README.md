@@ -31,13 +31,10 @@ Welcome to **eBrowser**, a clean and straightforward web browser designed for An
 > _*(Replace the placeholders with actual screenshots of your app)*_
 
 **Home Screen**  
-> (https://github.com/user-attachments/assets/e9cae55c-c553-49d9-986a-3efae28cd9dc)
-**Tab Switcher**  
-> Effortlessly switch between your open tabs, keeping your browsing tidy.
+> (https://github.com/user-attachments/assets/e9cae55c-c553-49d9-986a-3efae28cd9dc).
 
-**Bookmarks & History**  
-> Access your favorite sites and revisit past pages with ease.
-
+**Menu**  
+> (https://github.com/user-attachments/assets/3dfb3c64-20ca-4157-8491-ba9b3ead54cb).
 ---
 
 ## 🚀 Getting Started
