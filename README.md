@@ -98,16 +98,5 @@ eBrowser is designed to be intuitive. Here's a quick guide to its main functions
 
 ---
 
-## 🏗️ Project Structure
 
-For those curious about the internals, here's a brief overview of eBrowser's core components:
-eBrowser/
-├── app/
-│ └── src/
-│ └── main/
-│ ├── java/edu/ma/ebrowser/MainActivity.java # Main logic & UI interactions
-│ └── res/
-│ ├── layout/activity_main.xml # User interface layout
-│ ├── menu/browser_menu.xml # Overflow menu options
-│ └── drawable/ # Icons & background graphics
 
