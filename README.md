@@ -49,3 +49,65 @@ Follow these steps to run eBrowser on your Android device or emulator.
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/YOUR_GITHUB_USERNAME/eBrowser.git
+
+> **💡 Note:**  
+> Remember to replace `YOUR_GITHUB_USERNAME` with your actual GitHub username and the correct repository name!
+
+## 🧰 Open in Android Studio
+
+Launch Android Studio and select **"Open an existing Android Studio project."**  
+Navigate to the `eBrowser` directory you just cloned and open it.
+
+## 🔄 Sync Gradle Project
+
+Android Studio will typically sync the project automatically.  
+If it doesn't, simply go to **File > Sync Project with Gradle Files** to ensure all dependencies are resolved.
+
+## ▶️ Run the Application
+
+Connect your Android device (ensure **USB debugging** is enabled) or start an **Android emulator**.  
+Click the green **Run** button (play icon) in Android Studio, and watch **eBrowser** come to life!
+
+---
+
+## 📖 How to Use
+
+eBrowser is designed to be intuitive. Here's a quick guide to its main functions:
+
+- **Web Navigation:**  
+  Type any URL or search query into the address bar at the top. Press **Enter**, and you're off!
+
+- **Going Back / Forward / Reloading:**  
+  Use the navigation icons in the menu to move through your Browse history or refresh the current page.
+
+- **New Tabs:**  
+  Tap the **tab icon** to instantly open a fresh new tab.
+
+- **Switching Tabs:**  
+  Want to see all your open tabs? **Long-press** the tab icon to bring up the tab switcher and select your desired page.
+
+- **Main Menu Options:**  
+  Tap the **three-dot menu icon** to reveal more options, including:
+  - **Bookmark:** Save your current page.
+  - **Show Bookmarks:** View and open your saved sites.
+  - **Show History:** Browse your past visits.
+  - **Clear History:** Wipe your Browse history clean.
+  - **Zoom In/Out:** Adjust content size.
+
+> *(You can expand on other menu options if you add more to `browser_menu.xml`!)*
+
+---
+
+## 🏗️ Project Structure
+
+For those curious about the internals, here's a brief overview of eBrowser's core components:
+eBrowser/
+├── app/
+│ └── src/
+│ └── main/
+│ ├── java/edu/ma/ebrowser/MainActivity.java # Main logic & UI interactions
+│ └── res/
+│ ├── layout/activity_main.xml # User interface layout
+│ ├── menu/browser_menu.xml # Overflow menu options
+│ └── drawable/ # Icons & background graphics
+
