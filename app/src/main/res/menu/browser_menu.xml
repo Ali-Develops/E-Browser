@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/action_back" android:title="Back" android:icon="@drawable/ic_back"/>
+        <item android:id="@+id/action_forward" android:title="Forward" android:icon="@drawable/ic_forward"/>
+        <item android:id="@+id/action_reload" android:title="Reload" android:icon="@drawable/ic_reload"/>
+        <item android:id="@+id/action_bookmark" android:title=" Bookmark" android:icon="@drawable/ic_bookmark"/>
+        <item android:id="@+id/action_show_bookmarks" android:title="Show Bookmarks"/>
+        <item android:id="@+id/action_show_history" android:title="Show History"/>
+        <item android:id="@+id/action_delete_history" android:title="Delete History"/>
+        <item android:id="@+id/action_zoom_in" android:title="Zoom In"/>
+        <item android:id="@+id/action_zoom_out" android:title="Zoom Out"/>
+        <item android:id="@+id/action_recent_tabs" android:title="Recent Tabs"/>
+        <item android:id="@+id/action_incognito" android:title="Incognito Mode"/>
+    </menu>
